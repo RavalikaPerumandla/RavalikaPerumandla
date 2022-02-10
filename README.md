@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm PerumandlaRavalika</h1>
 <h3 align="center">A passionate Python Datascience</h3>
 
+<img align="right" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance analytical skills**
